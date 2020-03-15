@@ -1,0 +1,44 @@
+020-03-09 21:58:34 DEBUG App:19 - Prototype Design Pattern
+2020-03-09 21:58:35 DEBUG App:21 - Enter Employee Id: 
+2020-03-09 21:58:41 DEBUG App:24 - Enter Employee Name: 
+2020-03-09 21:58:46 DEBUG App:27 - Enter Employee Designation: 
+2020-03-09 21:58:51 DEBUG App:30 - Enter Employee Address: 
+2020-03-09 21:59:05 DEBUG App:33 - Enter Employee Salary: 
+2020-03-09 21:59:07 DEBUG EmployeeRecord:15 -    Employee Records of Oracle Corporation 
+2020-03-09 21:59:07 DEBUG EmployeeRecord:16 - ---------------------------------------------
+2020-03-09 21:59:07 DEBUG EmployeeRecord:17 - Eid	Ename	Edesignation	Esalary		Eaddress
+2020-03-09 21:59:07 DEBUG EmployeeRecord:32 - 2	NANI	MNGR	550000.0	2/-3,Gandhi Street
+2020-03-09 21:59:07 DEBUG EmployeeRecord:15 -    Employee Records of Oracle Corporation 
+2020-03-09 21:59:07 DEBUG EmployeeRecord:16 - ---------------------------------------------
+2020-03-09 21:59:07 DEBUG EmployeeRecord:17 - Eid	Ename	Edesignation	Esalary		Eaddress
+2020-03-09 21:59:07 DEBUG EmployeeRecord:32 - 2	NANI	MNGR	550000.0	2/-3,Gandhi Street
+2020-03-09 21:59:07 DEBUG App:43 - Factory Design Pattern
+2020-03-09 21:59:07 DEBUG Dog:10 - Dog is eating, woof!
+2020-03-09 21:59:07 DEBUG Cat:10 - Cat is eating, meow!
+2020-03-09 21:59:07 DEBUG Rabbit:10 - Rabbit is eating, squeak!
+2020-03-09 21:59:07 DEBUG App:54 - 
+2020-03-09 21:59:07 DEBUG App:55 - Proxy Design Pattern
+2020-03-09 21:59:07 DEBUG App:19 - Loading initial configuration...
+2020-03-09 21:59:07 DEBUG App:15 - processing complete.
+2020-03-09 21:59:07 DEBUG App:15 - processing complete.
+2020-03-09 21:59:07 DEBUG App:59 - 
+2020-03-09 21:59:07 DEBUG App:60 - Adapter Design Pattern
+2020-03-09 21:59:07 DEBUG App:61 - Creating drawing of shapes...
+2020-03-09 21:59:07 DEBUG App:65 - Drawing...
+2020-03-09 21:59:07 DEBUG App:10 - Drawing Rectangle
+2020-03-09 21:59:07 DEBUG App:10 - Drawing Circle
+2020-03-09 21:59:07 DEBUG App:67 - Resizing...
+2020-03-09 21:59:07 DEBUG App:14 - Resizing Rectangle
+2020-03-09 21:59:07 DEBUG App:14 - Resizing Circle
+2020-03-09 21:59:07 DEBUG App:69 - 
+2020-03-09 21:59:07 DEBUG App:70 - Iterator Design Pattern
+2020-03-09 21:59:07 DEBUG App:75 - Employee: David
+2020-03-09 21:59:07 DEBUG App:75 - Employee: Scott
+2020-03-09 21:59:07 DEBUG App:75 - Employee: Rhett
+2020-03-09 21:59:07 DEBUG App:75 - Employee: Andrew
+2020-03-09 21:59:07 DEBUG App:75 - Employee: Jessica
+2020-03-09 21:59:07 DEBUG App:77 - 
+2020-03-09 21:59:07 DEBUG App:78 - Stragey design pattern
+2020-03-09 21:59:07 DEBUG App:80 - Requesting a skyscraper: Building a skyscraper in the Downtown area.
+2020-03-09 21:59:07 DEBUG App:83 - Requesting a house: Building a house in the Outskirts area.
+2020-03-09 21:59:07 DEBUG App:86 - Requesting a mall: Building a mall in the City Centre area.
